@@ -23,6 +23,6 @@ ipnetwork = "0.20.0"
 rand = "0.8.5"
 serde = { version = "1.0.210", features = ["derive"] }
 serde_json = "1.0.128"
-tokio = { version = "1.40.0", features = ["rt-multi-thread"] }
+tokio = { version = "1.43.1", features = ["rt-multi-thread"] }
 tracing = "0.1.40"
 trust-dns-resolver = "0.22.0"
